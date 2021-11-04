@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="8.8390" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2021-11-04T13:58:56" tests="0" file="cypress/integration/0-test/smartTable_spec.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Smart Table Test" timestamp="2021-11-04T13:58:56" tests="1" time="8.8390" failures="0">
+    <testcase name="Smart Table Test Edit a row" time="8.8390" classname="Edit a row">
+    </testcase>
+  </testsuite>
+</testsuites>

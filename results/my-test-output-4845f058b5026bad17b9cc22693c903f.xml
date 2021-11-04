@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="17.9240" tests="3" failures="0">
+  <testsuite name="Root Suite" timestamp="2021-11-04T13:59:52" tests="0" file="cypress/integration/0-test/form_spec.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Form Test" timestamp="2021-11-04T13:59:52" tests="3" time="17.9240" failures="0">
+    <testcase name="Form Test Using the Grid Test" time="9.5660" classname="Using the Grid Test">
+    </testcase>
+    <testcase name="Form Test Using the Grid using Then method" time="5.9790" classname="Using the Grid using Then method">
+    </testcase>
+    <testcase name="Form Test Learn Invoke Method" time="2.3790" classname="Learn Invoke Method">
+    </testcase>
+  </testsuite>
+</testsuites>
